@@ -2,7 +2,7 @@
 A collection of writing samples for Northeastern's ENGW3315 class. All works have been converted to pdf's for ease of viewing in browser.
 
 # Overview
-I've written three pieces over the course of the semester, each with its own prompt and focus. If you'd like an overview of my work in general and my thoughts on the semester as a whole, I recommend taking a look at my [reflection piece](Showcase/Unit4/Reflection.pdf).
+I've written three pieces over the course of the semester, each with its own prompt and focus. If you'd like an overview of my work in general and my thoughts on the semester as a whole, I recommend taking a look at my [reflection piece](Reflection.pdf).
 
 For a more step-by-step discussion of each unit, see the following sections.
 
